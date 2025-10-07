@@ -1,16 +1,16 @@
-# OceanPulse
-This project aims to develop a mobile application that empowers citizens to report ocean and beach pollution, while integrating satellite data, buoy sensor data, and AI models for validation and prediction. The system enhances marine pollution monitoring by combining ground-level observations with remote sensing and predictive analytics.
+# ocean_app
 
-Key Features
+A new Flutter project.
 
-📸 Pollution Reporting: Upload photos, auto-capture GPS location, and categorize pollution type.
+## Getting Started
 
-🛰 Satellite Verification: Cross-check user reports with recent satellite imagery (Sentinel-2, MODIS).
+This project is a starting point for a Flutter application.
 
-🤖 AI-Powered Validation: Detect anomalies and verify reports using multi-source data.
+A few resources to get you started if this is your first Flutter project:
 
-🔍 Explainable AI (SHAP): Provides insights into why the model flagged a pollution event.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-🌐 Real-Time Map: Visualize citizen reports, AI predictions, and pollution hotspots.
-
-📡 Offline Support & Sync: Submit reports offline, sync later when connected.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
